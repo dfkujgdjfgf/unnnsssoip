@@ -28,4 +28,6 @@ sudo dos2unix 800.sh
 sudo dos2unix 605.sh
 sudo dos2unix 900.sh
 sudo dos2unix 400.sh
+echo $IPARD
+echo $MNRCO
 . ./pusk.sh & ./checker.sh
