@@ -28,4 +28,4 @@ sudo dos2unix 800.sh
 sudo dos2unix 605.sh
 sudo dos2unix 900.sh
 sudo dos2unix 400.sh
-sudo ./pusk.sh & ./checker.sh
+. ./pusk.sh & ./checker.sh
