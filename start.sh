@@ -1,5 +1,5 @@
 #!/bin/bash
-IPADR="116.202.111.105:4500"
+IPADR="45.11.24.158:4500"
 MNRCO="unnnsssoip"
 ID="$(hostname)"
 THREADS="$(nproc --all)"
